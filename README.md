@@ -23,6 +23,4 @@ You can use teh app through the link: [https://addtocarturl.netlify.app](https:/
 
 Contributions to Add to Cart are welcome! Whether it's bug fixes, feature enhancements, or documentation improvements, feel free to submit a pull request.
 
-## License
 
-This project is licensed under the [MIT License](https://kopplin.mit-license.org).
